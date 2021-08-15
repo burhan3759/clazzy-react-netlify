@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          By Burhan
+          By Sir Burhan 
         </a>
       </header>
     </div>
